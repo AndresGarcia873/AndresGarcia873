@@ -1,16 +1,32 @@
-### Hi there 👋
+###Desarrollador Junior👨‍💻💻
 
-<!--
-**AndresGarcia873/AndresGarcia873** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://www.parsidan.ir/wp-content/uploads/2020/12/MODIRHUB-800x533.gif)
+
+------------
+
+
+Soy Tecnologó en Analisis y Desarrollo de Sistemas de Información, Soy una persona con muy buena actitud para trabajo en equipo e individual, responsable, amable, honesto, paciente, puntual, creativo, disciplinado y proactivo.
+
+Soy una persona muy interesada en aprender nuevas tecnologías 
+de diferentes medios, y me gusta enfrentarme a nuevos retos y 
+resolverlos de una manera creativa.
+
+Actualmente tengo conocimientos en tecnologias como:
+- Angular
+- JavaScript
+- React
+- MySQL
+- POO
+- PHP
+- Python
+- HTML5
+- CSS3
+- Responsive Design
+- CSS Grid
+- Bootstrap 4
+- Metodología de desarrollo de software Scrum
+- Git
+- GitHub
