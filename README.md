@@ -2,12 +2,6 @@
 
 ------------
 
-
-![](https://www.parsidan.ir/wp-content/uploads/2020/12/MODIRHUB-800x533.gif)
-
-------------
-
-
 Soy Tecnologó en Analisis y Desarrollo de Sistemas de Información, Soy una persona con muy buena actitud para trabajo en equipo e individual, responsable, amable, honesto, paciente, puntual, creativo, disciplinado y proactivo.
 
 Soy una persona muy interesada en aprender nuevas tecnologías 
@@ -22,6 +16,7 @@ Actualmente tengo conocimientos en tecnologias como:
 - POO
 - PHP
 - Python
+- Java
 - HTML5
 - CSS3
 - Responsive Design
